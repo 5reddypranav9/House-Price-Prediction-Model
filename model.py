@@ -3,7 +3,7 @@ import pandas as pd
 
 # Load the data from the CSV file
 #file_path = "C:\Users\vishn\OneDrive\Desktop\intrn\pd2.csv"
-data = pd.read_csv(r'C:\Users\vishn\OneDrive\Desktop\intrn\pd2.csv')
+data = pd.read_csv(r'C:\Users\Pranav\OneDrive\Desktop\intrn\pd2.csv')
 
 # Display the first few rows of the dataframe to understand what the data looks like
 data.head()
